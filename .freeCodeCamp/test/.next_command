@@ -118,3 +118,5 @@ cp students.csv students_test.csv
 \l
 \li
 ls --color=auto
+rm student_test.csv
+rm students_test.csv
