@@ -97,3 +97,4 @@ declare -p IFS
 ./insert_data.sh
 clear
 psql --username=freecodecamp --dbname=postgres
+./insert_data.sh
